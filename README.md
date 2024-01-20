@@ -21,7 +21,7 @@ File Manager is a lightweight tool that helps you effortlessly organize and mana
 1.Python 3.X with pip3 Installed
 If not then, pip3 installation
 ```
-apt install python3-pip
+python -m ensurepip --upgrade
 ```  
 To Check pip versioon  
 ```
