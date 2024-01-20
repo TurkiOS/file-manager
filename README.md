@@ -31,7 +31,7 @@ pip3 --version
 ### Installation  :floppy_disk:
 Open Terminal and type
 ```
-git clone https://github.com/TurkiOS/File-Manager
+git clone https://github.com/TurkiOS/file-manager
 
 cd file-manager
 ```
