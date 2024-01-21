@@ -1,4 +1,3 @@
-<H1 align="center">File Manager</h1><br> 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="build status">
   <img src="https://img.shields.io/badge/coverage-75%25-green" alt="Coverage"></br>
@@ -14,12 +13,20 @@
 <p align="center">
 File Manager is a lightweight tool that helps you effortlessly organize and manage your files. It scans a directory, applies customizable rules, and moves files to appropriate folders based on criteria like file type. It simplifies file management, saves time, and promotes a clutter-free workflow.
 
+</br>
+</br>
+<H1 align="center">Windows installation</h1><br> 
 
 
 ### Prerequisites: 📦
 
-1.Python 3.X with pip3 Installed
-If not then, pip3 installation
+1. You need to download Python3, link to Python 3.12.1
+
+```
+https://www.python.org/downloads/windows
+```  
+
+2. Install pip3
 ```
 python -m ensurepip --upgrade
 ```  
@@ -29,12 +36,6 @@ pip3 --version
 ```
 
 ### Installation  :floppy_disk:
-Open Terminal and type
-```
-git clone https://github.com/TurkiOS/file-manager
-
-cd file-manager
-```
 
 To Install required Python package
 
