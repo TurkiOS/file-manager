@@ -32,7 +32,7 @@ else:
 
     for filename in os.listdir(current_dir):
 
-        if filename.lower().endswith((".pdf",".doc",".docx",".pptx",".ppt",".xls",".xlsx")):
+        if filename.lower().endswith((".pdf",".doc",".docx",".pptx",".ppt",".xls",".xlsx",".txt")):
         ## Creating folder "Documents" to hold files
             if not os.path.exists(Path.home() / 'Downloads' / 'Documents'):
                 os.mkdir(Path.home() / 'Downloads' / 'Documents')
@@ -53,6 +53,18 @@ else:
             os.remove(filename)
             print(filename, "--> Done (PDF)")
     print("PDF Folder complete")
+
+## Creating other folders (Text)
+
+    for filename in os.listdir(documents_dir):
+        if filename.lower().endswith((".txt")):
+            if not os.path.exists(Path.home() / 'Downloads' / 'Documents' / 'Text'):
+                os.mkdir(Path.home() / 'Downloads' / 'Documents' / 'Text')
+            shutil.copy2(filename, "Text")
+            os.remove(filename)
+            print(filename, "--> Done (Text)")
+    print("Text Folder complete")
+
 
 ## Creating other folders (Word)
 
