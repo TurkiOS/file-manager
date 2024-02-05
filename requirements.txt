@@ -1,2 +1,2 @@
 pathlib
-colorama
+customtkinter
