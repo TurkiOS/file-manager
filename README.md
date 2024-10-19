@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/python-v3.7-blue" alt="Python V3.7">
   <img src="https://img.shields.io/badge/Status-up-brightgreen" alt="status-up">
 </p>
-
 <p align="center">
   <img width="473" height="60" src="https://i.imgur.com/rsTbUgR.gif">
 </p>
