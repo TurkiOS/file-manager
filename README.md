@@ -14,7 +14,8 @@
 File Manager is a lightweight tool that helps you effortlessly organize and manage your files. It scans a directory, applies customizable rules, and moves files to appropriate folders based on criteria like file type. It simplifies file management, saves time, and promotes a clutter-free workflow.
 
 
-![Screenshot (161)](https://github.com/TurkiOS/file-manager/assets/112579033/12a424ee-db36-4bd9-af1b-5f3a55e5a696)
+
+![FileManager](https://github.com/user-attachments/assets/8788faba-6661-42b9-bb6b-26a372a9c1d0)
 
 
 </br>
