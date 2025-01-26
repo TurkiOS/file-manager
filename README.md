@@ -8,11 +8,16 @@
 <p align="center">
   <img width="1120" height="300" src="https://i.ibb.co/TKZLTs8/Flux-Dev-A-luminous-sky-blue-glow-emanates-from-a-meticulously-0.jpg">
 </p>
+</br>
 
 <p align="center">
 File Manager is a lightweight tool that helps you effortlessly organize and manage your files. It scans a directory, applies customizable rules, and moves files to appropriate folders based on criteria like file type. It simplifies file management, saves time, and promotes a clutter-free workflow.
 
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ![FileManager](https://github.com/user-attachments/assets/8788faba-6661-42b9-bb6b-26a372a9c1d0)
 
