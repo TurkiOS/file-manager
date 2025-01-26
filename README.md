@@ -16,8 +16,6 @@ File Manager is a lightweight tool that helps you effortlessly organize and mana
 </br>
 </br>
 </br>
-</br>
-</br>
 
 ![FileManager](https://github.com/user-attachments/assets/8788faba-6661-42b9-bb6b-26a372a9c1d0)
 
