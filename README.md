@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-up-brightgreen" alt="status-up">
 </p>
 <p align="center">
-  <img width="473" height="60" src="https://i.imgur.com/rsTbUgR.gif">
+  <img width="1120" height="300" src="https://i.ibb.co/TKZLTs8/Flux-Dev-A-luminous-sky-blue-glow-emanates-from-a-meticulously-0.jpg">
 </p>
 
 <p align="center">
